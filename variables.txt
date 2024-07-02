@@ -1,0 +1,1 @@
+VERCEL_PROJECT_NAME=galaxies-ui-dev
