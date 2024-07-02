@@ -42,7 +42,7 @@ export const DocMainTOC = ({ toc, slug }: TocProps) => {
             href={`${siteConfig.links.github.toString()}/tree/master/content${slug}.mdx`}
             className="text-sm text-muted-foreground hover:text-foreground/90 duration-200 transition-colors "
           >
-            Edit this page
+            Edit this page code
           </Link>
         </div>
       </div>
